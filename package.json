@@ -1,0 +1,19 @@
+{
+  "name": "be-the-hero_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": "https://github.com/Daniels887/be-the-hero_backend.git",
+  "author": "Daniel <daniel_sousa.p@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
